@@ -1,0 +1,26 @@
+_repo: Hangulatok-b-Elbeszelesek_73815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lázár, Béla
+    gutenberg_agent_id: '57231'
+    url: http://www.gutenberg.org/2009/agents/57231
+description: ''
+gutenberg_issued: '2024-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73815'
+language: hu
+pgterms:marc905: 20240114100026lzr
+pgterms:marc906: '1898'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aHungary :$bAthenaeum, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hangulatok : $b Elbeszélések'
+url: http://www.gutenberg.org/ebooks/73815
