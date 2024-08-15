@@ -1,11 +1,16 @@
 _repo: Hangulatok-b-Elbeszelesek_73815
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lázár, Béla
     gutenberg_agent_id: '57231'
     url: http://www.gutenberg.org/2009/agents/57231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73815#Hangulatok-b-Elbeszelesek
 gutenberg_issued: '2024-06-12'
 gutenberg_type: Text
 identifiers:
